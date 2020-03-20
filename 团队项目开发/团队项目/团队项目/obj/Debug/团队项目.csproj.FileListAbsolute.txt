@@ -1,0 +1,9 @@
+D:\visualstudio workbench\团队项目开发\团队项目\团队项目\bin\Debug\团队项目.exe.config
+D:\visualstudio workbench\团队项目开发\团队项目\团队项目\bin\Debug\团队项目.exe
+D:\visualstudio workbench\团队项目开发\团队项目\团队项目\bin\Debug\团队项目.pdb
+D:\visualstudio workbench\团队项目开发\团队项目\团队项目\obj\Debug\团队项目.csprojAssemblyReference.cache
+D:\visualstudio workbench\团队项目开发\团队项目\团队项目\obj\Debug\团队项目.Properties.Resources.resources
+D:\visualstudio workbench\团队项目开发\团队项目\团队项目\obj\Debug\团队项目.csproj.GenerateResource.cache
+D:\visualstudio workbench\团队项目开发\团队项目\团队项目\obj\Debug\团队项目.csproj.CoreCompileInputs.cache
+D:\visualstudio workbench\团队项目开发\团队项目\团队项目\obj\Debug\团队项目.exe
+D:\visualstudio workbench\团队项目开发\团队项目\团队项目\obj\Debug\团队项目.pdb
